@@ -8,7 +8,6 @@ A small payroll system to calculate employee salaries using C# in Visual Studio 
 
 ## 🛠️ Technologies Used
 - C# (Windows Forms)
-- SQL Server
 - Visual Studio 2013
 
 ## 🎯 Features
