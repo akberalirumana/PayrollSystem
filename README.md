@@ -1,4 +1,4 @@
-ayroll System
+Payroll System
 
 A small payroll system to calculate employee salaries using C# in Visual Studio 2013.
 
